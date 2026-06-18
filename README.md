@@ -92,4 +92,4 @@ Shivi Garg
 
 LinkedIn: https://www.linkedin.com/in/shivi-garg-8885b9374
 
-GitHub: github.com/shivigarg24
+GitHub: https://github.com/shivigarg24
