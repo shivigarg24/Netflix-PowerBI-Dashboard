@@ -72,11 +72,11 @@ The project involved cleaning and preparing raw data in Excel, importing it into
 
 ### Overview Dashboard
 
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard](overview.png)
 
 ### Single Title Dashboard
 
-![Single Title Dashboard](screenshots/single-title.png)
+![Single Title Dashboard](single-title.png)
 
 ---
 
@@ -90,6 +90,6 @@ The dashboard enables users to explore Netflix content interactively, identify c
 
 Shivi Garg
 
-LinkedIn: linkedin.com/in/shivi-garg-8885b9374
+LinkedIn: https://www.linkedin.com/in/shivi-garg-8885b9374
 
-GitHub: https://github.com/shivigarg24
+GitHub: github.com/shivigarg24
