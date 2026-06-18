@@ -86,28 +86,6 @@ The dashboard enables users to explore Netflix content interactively, identify c
 
 ---
 
-## Repository Structure
-
-Netflix-PowerBI-Dashboard/
-
-├── Netflix Dashboard.pbix
-
-├── README.md
-
-├── SQL Queries.sql
-
-├── screenshots/
-
-│   ├── overview.png
-
-│   └── single-title.png
-
-└── dataset/
-
-    └── netflix_titles.csv
-
----
-
 ## Author
 
 Shivi Garg
